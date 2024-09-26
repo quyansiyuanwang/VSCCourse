@@ -40,40 +40,40 @@
 
 1. 打开 `VSC`，如果刚安装好 `VSC` 则会自动打开
 2. 点击左侧的 `扩展` 图标，如图  
-    <img src="./images/VSCodeConfig/1.png">
+    ![1](./images/VSCodeConfig/1.png)
 3. 在搜索框中输入 `C/C++`，然后点击 `install` 安装，如图安装框示的插件
-    <img src="./images/VSCodeConfig/2.png">
+    ![2](./images/VSCodeConfig/2.png)
 4. 最小化 `VSC` 窗口，
-    <img src="./images/VSCodeConfig/3.png">
+    ![3](./images/VSCodeConfig/3.png)
 5. 找到你解压的 `msvc` 文件夹，如图  
-    <img src="./images/VSCodeConfig/4.png">
+    ![4](./images/VSCodeConfig/4.png)
 6. 依次打开 `mingw32\bin` 文件夹，然后点击上方导航栏，复制当前路径，如图  
-    <img src="./images/VSCodeConfig/5.png">
+    ![5](./images/VSCodeConfig/5.png)
 7. 在资源管理器中左侧找到 `此电脑`，右键点击，然后点击 `属性`，如图  
-    <img src="./images/VSCodeConfig/6.png">
+    ![6](./images/VSCodeConfig/6.png)
 8. 点击 `高级系统设置`，如图
-    <img src="./images/VSCodeConfig/7.png">
+    ![7](./images/VSCodeConfig/7.png)
 9. 点击 `环境变量`，如图
-    <img src="./images/VSCodeConfig/8.png">
+    ![8](./images/VSCodeConfig/8.png)
 10. 在 `环境变量` 中找到 `Path`，然后点击 `编辑`，如图
-    <img src="./images/VSCodeConfig/9.png">
+    ![9](./images/VSCodeConfig/9.png)
 11. 点击 `新建`，如图
-    <img src="./images/VSCodeConfig/10.png">
+    ![10](./images/VSCodeConfig/10.png)
 12. 粘贴刚才复制的路径，然后点击 `确定`，如图
-    <img src="./images/VSCodeConfig/11.png">
+    ![11](./images/VSCodeConfig/11.png)
 13. 点击 `确定`，如图
-    <img src="./images/VSCodeConfig/12.png">
-    <img src="./images/VSCodeConfig/13.png">
+    ![12](./images/VSCodeConfig/12.png)
+    ![13](./images/VSCodeConfig/13.png)
 
 ### 使用教程
 
 1. 打开 `VSC`，然后点击 `打开文件夹`，选择一个文件夹作为目录，如图  
-    <img src="./images/OpenFolder.png">
-    <img src="./images/SelectFolder.png">
+    ![OpenFolder](./images/OpenFolder.png)
+    ![SelectFolder](./images/SelectFolder.png)
 
 2. 现在你可以点击如图按钮创建文件并命名，如图  
-    <img src="./images/VSCodeNewFile.png">
-    <img src="./images/VSCodeNameFile.png">
+    ![VSCodeNewFile](./images/VSCodeNewFile.png)
+    ![VSCodeNameFile](./images/VSCodeNameFile.png)
 
 3. 现在你就可以打开 `.c` 文件，然后点击右上角的小三角图标进行编译并运行啦，如图  
-    <img src="./images/RunC.png">
+    ![RunC](./images/RunC.png)

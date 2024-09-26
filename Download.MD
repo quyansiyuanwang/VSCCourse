@@ -15,12 +15,13 @@
   * [点击我跳转到下载页面](<https://github.com/niXman/mingw-builds-binaries/releases>)
   * 请下载对应版本
   * 如和我一样是`Windows`用户，请下载带有`win`字样的版本
-  * 如和我一样, 请如下图点击`x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z`进行下载![MSVCDP](/images/MSVCDownloadPage.png)
+  * 如和我一样, 请如下图点击`x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z`进行下载  
+      ![MSVCDP](./images/MSVCDownloadPage.png)
 
 * 下载`Visual Studio Code`
   * [点击我跳转到下载页面](<https://code.visualstudio.com/>)
   * 请如下图点击与`.zip`并齐的`x64`字样进行下载
-  ![VSCIDP]<img src="./images/VSCDownloadPage.png">
+  ![VSCIDP](./images/VSCDownloadPage.png)
 
 [返回主页面](./README.MD/#下载教程)
 
