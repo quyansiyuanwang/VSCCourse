@@ -10,7 +10,7 @@
 
 ### 如何下载
 
-* 下载`msvc`
+* 下载`mingw32`
 
   * [点击我跳转到下载页面](<https://github.com/niXman/mingw-builds-binaries/releases>)
   * 请下载对应版本
