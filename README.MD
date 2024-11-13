@@ -22,16 +22,16 @@
 
 ### 下载教程
 
-1. 下载必备的 `VSC`, `msvc`  
+1. 下载必备的 `VSC`, `mingw32`  
     [不懂如何下载？](./Download.MD)
 2. 下载完毕后, 找到下载文件所在位置  
     [找不到文件位置？](./Download.MD/#文件位置)
 
 ### 安装教程
 
-1. 解压缩 `msvc压缩包`
+1. 解压缩 `mingw32压缩包`
     [如何解压缩](./Unzip.MD)
-2. 将msvc解压文件放到你想放的位置  
+2. 将mingw32解压文件放到你想放的位置  
     [不知道放哪？](./Hopeless.MD)  
 3. 安装 `Visual Studio Code`  
     [如何安装？](./Install.MD)
@@ -45,7 +45,7 @@
     ![2](./images/VSCodeConfig/2.png)
 4. 最小化 `VSC` 窗口，
     ![3](./images/VSCodeConfig/3.png)
-5. 找到你解压的 `msvc` 文件夹，如图  
+5. 找到你解压的 `mingw32` 文件夹，如图  
     ![4](./images/VSCodeConfig/4.png)
 6. 依次打开 `mingw32\bin` 文件夹，然后点击上方导航栏，复制当前路径，如图  
     ![5](./images/VSCodeConfig/5.png)
